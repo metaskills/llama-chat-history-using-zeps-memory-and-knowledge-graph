@@ -1,0 +1,118 @@
+{
+  "name": "Ken Collins",
+  "headline": "Product & Engineering Leader",
+  "contact": {
+    "phone": "(757) 672-2246",
+    "email": "ken@unremarkable.ai",
+    "linkedin": "linkedin.com/in/metaskills",
+    "location": "Portsmouth, Virginia"
+  },
+  "profile": "Early on as a Marketing Director, I was a self-described \"conversion junkie\". Today, I apply that same passion to the entire organization, bringing technology and innovative thinking to broad business problems using the same measurable results. Empathy and strategy are my superpowers that connect \"hello world\" to \"hello revenue\" using years of experience in Product, E-commerce, Engineering, Infrastructure, Marketing, Sales, and now applied AI features and automation.",
+  "skills": [
+    "Business Strategy",
+    "Leadership Alignment",
+    "Generative AI & LLMs",
+    "Product Development",
+    "Cloud Architecture",
+    "Enterprise Search & RAG",
+    "Business Automation",
+    "Build v. Buy Platforms",
+    "Developer Experience",
+    "Customer Data Platforms",
+    "Kubernetes & AWS Lambda",
+    "Agile Development"
+  ],
+  "workHistory": [
+    {
+      "company": "Custom Ink",
+      "positions": [
+        {
+          "title": "Product Enterprise Innovation",
+          "startDate": "2020-01",
+          "endDate": "Present"
+        },
+        {
+          "title": "Principal Software Engineer",
+          "startDate": "2017-03",
+          "endDate": "2020-01"
+        },
+        {
+          "title": "Sr. Software Engineer",
+          "startDate": "2012-09",
+          "endDate": "2017-03"
+        }
+      ],
+      "summary": "On the Commercial Platform Leadership team I focus on building alignment around innovative product solutions that drive strategic growth and enhanced experiences using my technical vision, strategy, situational leadership, & narrative story telling.",
+      "achievements": [
+        "Design AI Intelligence & Segmentation Claude 3 & AWS. $10M sales growth.",
+        "Merchandising AI Retrieval (RAG) with Baymard Usability & Faceted Search.",
+        "Broad Organization AI enablement with OpenAI Enterprise (GPTs) and Copilot.",
+        "Component-based image personalization product suite for Designs & Merch."
+      ]
+    },
+    {
+      "company": "PharmMD",
+      "position": "Sr. Application Architect",
+      "startDate": "2012-03",
+      "endDate": "2012-08",
+      "summary": "Implemented a service-oriented design and a synchronized JavaScript app for a pharmacist call queue, streamlining system integration."
+    },
+    {
+      "company": "Decisiv",
+      "position": "Sr. Software Engineer",
+      "startDate": "2006-08",
+      "endDate": "2012-08",
+      "summary": "Lead developer of a multi-tenant Rails application for the heavy truck industry.",
+      "achievements": [
+        "Authored the SQL Server Adapter for Rails & TinyTDS C extension for Ruby."
+      ]
+    },
+    {
+      "company": "ArcaMax Pub.",
+      "position": "Marketing Director",
+      "startDate": "2004-10",
+      "endDate": "2005-02",
+      "summary": "Boosted profitability for a new discount CD-ROM software & DVD business unit by integrating search & affiliate marketing channels into a legacy in-house platform."
+    },
+    {
+      "company": "Stratum Marketing",
+      "position": "Technical Director",
+      "startDate": "1999-09",
+      "endDate": "2004-07",
+      "summary": "Utilized design, print, & technology expertise for travel, food, & consumer brands."
+    }
+  ],
+  "awards": [
+    {
+      "title": "AWS Hero",
+      "date": "2020-01",
+      "summary": "Lamby product enabling Rails to lift-n-shift into cloud-native integrations with Lambda & Event Bridge."
+    },
+    {
+      "title": "Innovation Juggernaut",
+      "date": "2019-01",
+      "awardedBy": "Custom Ink",
+      "summary": "Diverse innovations have collectively boosted annual revenue by over $2 million, enhancing UX & Op. efficiency."
+    },
+    {
+      "title": "You Can Teach an Old Design Lab New Tricks!",
+      "date": "2016-01",
+      "awardedBy": "Custom Ink",
+      "summary": "Retrofit of Custom Ink's Design Lab for mobile. Boosted conversions by 35% with a 20% rise in orders. Major pivot for the company's digital evolution."
+    }
+  ],
+  "references": [
+    {
+      "name": "Gihad Jawhar",
+      "role": "CTO @ Custom Ink",
+      "email": "gjawhar@gmail.com",
+      "quote": "Ken played a pivotal role in our cloud adoption and later spearheaded a transformative AI strategy, demonstrating exceptional ability to integrate technical expertise with business."
+    },
+    {
+      "name": "Massimo Re Ferré",
+      "role": "Director, NextGen PM @ AWS",
+      "email": "massimo@rt20.info",
+      "quote": "Ken's expertise and hands-on experience in GenAI has profoundly enhanced my grasp of this new technology. His enthusiasm for knowledge-sharing and his success in using LLMs in practical applications have been enlightening and crucial in forming my views."
+    }
+  ]
+}
